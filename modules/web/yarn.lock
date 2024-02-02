@@ -10601,7 +10601,7 @@ __metadata:
     webpack-bundle-analyzer: 4.7.0
     webpack-dev-server: 4.11.1
     xterm: 4.18.0
-    xterm-addon-fit: 0.6.0
+    xterm-addon-fit: 0.8.0
     zone.js: 0.11.8
   languageName: unknown
   linkType: soft
@@ -14852,7 +14852,7 @@ __metadata:
 
 "typescript@patch:typescript@4.9.5#~builtin<compat/typescript>":
   version: 4.9.5
-  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=f456af"
+  resolution: "typescript@patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=701156"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
@@ -15600,12 +15600,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xterm-addon-fit@npm:0.6.0":
-  version: 0.6.0
-  resolution: "xterm-addon-fit@npm:0.6.0"
+"xterm-addon-fit@npm:0.8.0":
+  version: 0.8.0
+  resolution: "xterm-addon-fit@npm:0.8.0"
   peerDependencies:
     xterm: ^5.0.0
-  checksum: 6115e130a58a5ec3d17b424bd0420f3d871e9a6bb455ca62e67c10724534eafbdd205dd35c4707d8037efe8107c09486b48cb4369ba2e3ac97ab78f805195319
+  checksum: 5af2041b442f7c804eda2e6f62e3b68b5159b0ae6bd96e2aa8d85b26441df57291cbfed653d1196d4af5d9b94bfc39993df8b409a25c35e0d36bdaf6f5cdfe5f
   languageName: node
   linkType: hard
 
